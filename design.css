@@ -1,0 +1,36 @@
+body{
+background-color: gainsboro;
+margin: auto;
+font-family: sans-serif;
+}
+
+.hele{
+  display: flex;
+  flex-direction: column;
+
+}
+.boks{
+  margin-left:32vw ;
+  display: flex;
+  flex-direction: row;
+
+
+}
+.frokost{
+background-color: gainsboro;
+
+}
+.dropp{
+background-color: gainsboro;
+
+}
+.bilde{
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+.seilvalg{
+  display: flex;
+  flex-direction: row;
+  margin-left: 32vw;
+
+}
